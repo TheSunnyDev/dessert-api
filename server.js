@@ -14,7 +14,7 @@ const dessert = {
     'icecream':{
         'name': 'none',
         'origin': 'iceland',
-        'color': 'cream'
+        'color': 'various'
     },
     'misc':{
         'name': 'unknown',
